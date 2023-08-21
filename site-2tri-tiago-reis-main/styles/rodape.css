@@ -3,7 +3,7 @@ hr{
 }
 
 .rodape{
-    background-color: var(--cor-de-cabeçalho);
+    background-color:forestgreen;
     padding: 0.5em;
     color: var(--cor-de-texto-principal);
 }

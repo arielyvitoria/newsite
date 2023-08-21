@@ -1,12 +1,9 @@
 @import url("styles/header.css");
-@import url("styles/banner.css");
 @import url("styles/carrossel.css");
-@import url("styles/topicos.css");
-@import url("styles/contato.css");
 @import url("styles/rodape.css");
 
 :root{
-    --cor-de-fundo: black;
+    --cor-de-fundo: #DFDFDF;
     --cor-de-cabeçalho: rgb(71, 71, 71);
     --cor-de-texto-principal: white;
     --cor-menu: #16c398;
