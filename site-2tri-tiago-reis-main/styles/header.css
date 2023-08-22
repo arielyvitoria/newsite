@@ -15,15 +15,6 @@
     position: relative;
 }
 
-.container{
-    display: flex;
-    align-items: center;
-}
-
-.container_imagem{
-    padding: 1em;
-}
-
 .lista-menu{
     display: none;
     position: absolute;
