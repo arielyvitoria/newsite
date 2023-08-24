@@ -4,13 +4,9 @@
 
 :root{
     --cor-de-fundo: #DFDFDF;
-    --cor-de-cabeçalho: rgb(71, 71, 71);
     --cor-de-texto-principal: white;
-    --cor-menu: #16c398;
-    --cor-menu-itens: orange;
-    --fonte-principal: "Poppins";
-    font-family: 'Poppins', sans-serif;
-    --fonte-secundaria: "Josefin Sans";
+    --cor-menu: #008005;
+    font-family: 'DM Serif Text';
 }
 
 body{
@@ -20,7 +16,18 @@ body{
     font-weight: 400;
 }
 
-h1{
-    background-color: var(--cor-de-cabeçalho);
-    color: var(--cor-de-texto-principal);
+.text-colegio{
+    font-size: 40px;
+    padding-left: 10%;
+    margin-top: 40px;
+}
+
+.sobre-colegio{
+    font-size: 20px;
+    padding-left: 10%;
+    margin-top: 40px;
+}
+
+.text-header{
+    font: 1em sans-serif;
 }

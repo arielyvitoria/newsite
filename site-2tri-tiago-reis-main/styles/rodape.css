@@ -3,18 +3,11 @@ hr{
 }
 
 .rodape{
-    background-color:forestgreen;
-    padding: 0.5em;
+    background-color:#008005;
+    padding: 50px;
     color: var(--cor-de-texto-principal);
 }
 
-.lista-rodape{
-    display: none;
-}
-
-.lista-rodape-link:hover {
-    color: var(--cor-menu-itens);
-    }
 
 @media screen and (min-width: 1024px) {
     .rodape{
